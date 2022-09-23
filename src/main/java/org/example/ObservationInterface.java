@@ -1,5 +1,5 @@
 package org.example;
 
 public interface ObservationInterface {
-    String observe();
+    void observe(String action);
 }

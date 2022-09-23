@@ -1,22 +1,22 @@
 package org.example;
 
 public class Camera implements ObservationInterface {
-    private String marque;
+    private int ref;
 
-    public Camera(String marque) {
-        this.marque = marque;
+    public Camera(int ref) {
+        this.ref = ref;
     }
 
-    public String getMarque() {
-        return marque;
+    public int getRef() {
+        return ref;
     }
 
-    public void setMarque(String marque) {
-        this.marque = marque;
+    public void setRef(int ref) {
+        this.ref = ref;
     }
 
     @Override
-    public String observe() {
-        return null;
+    public void observe(String action) {
+        System.out.println("Camera n°" + ref + " a enregistré " + action);
     }
 }

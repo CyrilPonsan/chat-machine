@@ -26,7 +26,7 @@ public class Personne implements ObservationInterface {
     }
 
     @Override
-    public String observe() {
-        return null;
+    public void observe(String action) {
+        System.out.println(name + ", " + job + " a observé " + action);
     }
 }
