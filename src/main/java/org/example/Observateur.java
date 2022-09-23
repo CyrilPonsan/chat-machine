@@ -1,10 +1,9 @@
 package org.example;
 
 public class Observateur {
-    private String name;
+    private ObservationInterface observateur;
 
-    public Observateur(String name, ChatDeLabo chat) {
-        this.name = name;
+    public Observateur(ObservationInterface observateur, ChatDeLabo chat) {
         chat.setObservateur(this);
     }
 
