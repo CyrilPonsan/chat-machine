@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="054962c0-77f3-4889-af23-cfd88c09f73a" name="Changes" comment="chat">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Camera.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ChatDeLabo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ChatDeLabo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Observateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Observateur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ObservationInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ObservationInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Personne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Personne.java" afterDir="false" />
-    </list>
+    <list default="true" id="054962c0-77f3-4889-af23-cfd88c09f73a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
